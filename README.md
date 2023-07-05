@@ -1,6 +1,6 @@
 # goit-nodejs-hw-01
 
-## Programm Screenshots
+### Program Screenshots
 - "list" action:
 
 <img src="https://imgsh.net/i/vZnjlvV.png"/>
