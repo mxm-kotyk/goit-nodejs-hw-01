@@ -3,7 +3,7 @@
 ### Program Screenshots
 - "list" action:
 
-<img src="https://imgsh.net/i/vZnjlvV.png"/>
+<img src="https://imgsh.net/i/rWMbSuy.png"/>
 
 - "get" action:
   
